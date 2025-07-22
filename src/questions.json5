@@ -1,0 +1,281 @@
+[
+  {
+    type: 'single',
+    question: 'Which of the following behaviors should be avoided?',
+    options: ['Personal freedom', 'May face administrative detention or mandatory rehab', 'No consequences', 'Only need to pay a fine'],
+    answer: 1,
+  },
+  
+  {
+    type: 'single',
+    question: 'Which behavior constitutes the crime of assisting information network crimes',
+    options: ['Helping install apps for others', 'Lending your WeChat account to others', 'Sharing others\' posts', 'Joining online raffles'],
+    answer: 1,
+  },
+
+  {
+    type: 'single',
+    question: 'If you help a stranger withdraw cash, what crime might you be involved in?',
+    options: ['Legitimate behavior', 'Concealing or disguising criminal proceeds', 'Legal assistance', 'Tax filing error'],
+    answer: 1,
+  },
+
+  {
+    type: 'single',
+    question: 'What form might drugs initially be disguised as?',
+    options: ['Children\'s food', 'Instruction manual', 'Drink label', 'Book cover'],
+    answer: 0,
+  },
+
+  {
+    type: 'single',
+    question: 'What can happen if you lend your ID card to someone else?',
+    options: ['Legal liability', 'Receive a reward', 'No impact', 'Convenient for socializing'],
+    answer: 0,
+  },
+
+  {
+    type: 'single',
+    question: 'What does \"sunk cost\" mean in gambling?',
+    options: ['Recoverable money', 'Money already spent and cannot be recovered', 'Gambling winnings', 'Loan interest'],
+    answer: 1,
+  },
+
+  {
+    type: 'single',
+    question: 'What should you be most cautious about when carrying items for someone at customs?',
+    options: ['Luggage color', 'Which lane is faster', 'Whether the item is prohibited', 'If the person is a friend'],
+    answer: 2,
+  },
+
+  {
+    type: 'single',
+    question: 'Which of the following is NOT a punishment for drug crimes?',
+    options: ['Administrative detention', 'Community service', 'Fixed-term imprisonment', 'Mandatory rehab'],
+    answer: 1,
+  },
+
+  {
+    type: 'single',
+    question: 'If you help others collect bank cards and withdraw money, what risk might you face?',
+    options: ['Risk of winning', 'Becoming a money laundering tool', 'Loss of savings', 'Lower credit score'],
+    answer: 1,
+  },
+
+  {
+    type: 'single',
+    question: 'Which of the following is a legal act?',
+    options: ['Using someone else\'s ID to buy a SIM card', 'Transferring money to a stranger', 'Lending bank card to a friend', 'Using your own ID to apply for a SIM card'],
+    answer: 3,
+  },
+
+  {
+    type: 'single',
+    question: 'What is the main harm of drugs?',
+    options: ['High price', 'Makes people happy', 'Addictive and destructive', 'Unknown origin'],
+    answer: 2,
+  },
+
+  {
+    type: 'single',
+    question: 'Which action could lead to smuggling charges?',
+    options: ['Bringing self-bought gifts into the country', 'Carrying undeclared goods', 'Shopping on a plane', 'Buying at duty-free shops'],
+    answer: 1,
+  },
+
+  {
+    type: 'single',
+    question: 'What is the correct understanding of \"crime of assistance\"?',
+    options: ['Only applies to hackers', 'Not a serious crime', 'Providing accounts or devices can also be criminal', 'Only applies to offline actions'],
+    answer: 2,
+  },
+
+  {
+    type: 'single',
+    question: 'What does \"public funds\" mainly refer to?',
+    options: ['Family account', 'Company investment', 'Government or organizational funds', 'Personal WeChat balance'],
+    answer: 2,
+  },
+
+  {
+    type: 'single',
+    question: 'Using a fake ID to handle matters will constitute what?',
+    options: ['Misconduct', 'Harmless', 'Illegal and criminal', 'Temporarily acceptable'],
+    answer: 2,
+  },
+
+  {
+    type: 'multiple',
+    question: 'Which of the following behaviors may constitute the crime of assistance?',
+    options: ['Lending SIM cards', 'Lending your WeChat account', 'Posting job ads online', 'Helping register bank accounts'],
+    answer: [0,1,3],
+  },
+
+  {
+    type: 'multiple',
+    question: 'Which are common disguises for drugs?',
+    options: ['Candy', 'Drinks', 'Mobile phones', 'Snack packaging'],
+    answer: [0,1,3],
+  },
+
+  {
+    type: 'multiple',
+    question: 'Which of the following are punishments for drug crimes?',
+    options: ['Mandatory rehab', 'Imprisonment', 'Verbal warning', 'Administrative detention'],
+    answer: [0,1,3],
+  },
+
+  {
+    type: 'multiple',
+    question: 'Which of the following are related to money laundering?',
+    options: ['Multiple people withdrawing cash', 'Concealing source of funds', 'Receiving salary directly', 'Transferring cash to overseas accounts'],
+    answer: [0,1,3],
+  },
+
+  {
+    type: 'multiple',
+    question: 'Which of the following are reasons not to carry items for others?',
+    options: ['Might be prohibited items', 'May involve smuggling', 'Might save money', 'Cannot verify the origin of the items'],
+    answer: [0,1,3],
+  },
+
+  {
+    type: 'multiple',
+    question: 'Which actions may lead to criminal charges?',
+    options: ['Helping register a bank card', 'Transferring money to scammers', 'Tipping livestreamers', 'Lending your ID'],
+    answer: [0,1,3],
+  },
+
+  {
+    type: 'multiple',
+    question: 'Which methods help us avoid illegal activities?',
+    options: ['Don\'t lend ID cards', 'Refuse to transfer money for others', 'Offer to open bank accounts for others', 'Don\'t carry strangers\' luggage'],
+    answer: [0,1,3],
+  },
+
+  {
+    type: 'multiple',
+    question: 'Why shouldn\'t public funds be misused?',
+    options: ['It\'s shared social property', 'Misuse may lead to crimes', 'Hard to trace', 'It\'s a sign of state trust in you'],
+    answer: [0,1,3],
+  },
+
+  {
+    type: 'multiple',
+    question: 'How to identify drug traps?',
+    options: ['Attractive appearance', 'Free gifts', 'Labeled as \"natural and harmless\"', 'Only for the elderly'],
+    answer: [0,1,2],
+  },
+
+  {
+    type: 'multiple',
+    question: 'Which of the following behaviors should be avoided?',
+    options: ['Lending your ID', 'Transferring money to strangers', 'Helping others collect money', 'Shopping online for yourself'],
+    answer: [0,1,2],
+  },
+
+  {
+  type: 'single',
+  question: 'Why should you avoid drinking beverages given by strangers?',
+  options: ['It might be poisoned', 'It could be expensive', 'It\'s impolite to refuse', 'It will go cold quickly'],
+  answer: 0,
+  },
+
+  {
+  type: 'single',
+  question: 'What is the safest action if your drink has left your sight in a public place?',
+  options: ['Smell it and drink if normal', 'Drink it quickly', 'Give it to a friend', 'Do not drink it'],
+  answer: 3,
+  },
+
+  {
+  type: 'single',
+  question: 'Why shouldn\'t you lend your laptop or phone to others?',
+  options: ['It may get stolen', 'They might see your photos', 'It might be used for illegal activity', 'It\'s disrespectful'],
+  answer: 2,
+  },
+
+  {
+  type: 'single',
+  question: 'Which is a correct way to avoid location tracking?',
+  options: ['Turn off GPS', 'Use someone else\'s phone', 'Avoid answering calls', 'Leave your phone at home'],
+  answer: 0,
+  },
+
+  {
+  type: 'single',
+  question: 'Which of the following is a good habit to protect personal safety?',
+  options: ['Posting your schedule online', 'Only walking with friends at night', 'Accepting food from strangers', 'Sharing your home address'],
+  answer: 1,
+  },
+
+  {
+  type: 'single',
+  question: 'Why is it risky to ride on a motorcycle?',
+  options: ['It is very fast', 'It is stylish', 'Motorcycles are often unsafe', 'It\'s too expensive'],
+  answer: 2,
+  },
+
+  {
+  type: 'single',
+  question: 'What should you avoid in a crowded place?',
+  options: ['Holding your phone', 'Wearing a mask', 'Being alone', 'Exposing valuables'],
+  answer: 3,
+  },
+
+  {
+  type: 'single',
+  question: 'If someone asks you to carry a package, what should you consider first?',
+  options: ['Weight of the package', 'Value of the content', 'Whether it contains illegal items', 'Sender\'s identity'],
+  answer: 2,
+  },
+
+  {
+  type: 'single',
+  question: 'Why should personal belongings be carefully stored?',
+  options: ['To save space', 'To avoid theft or damage', 'To look neat', 'To show off'],
+  answer: 1,
+  },
+
+  {
+  type: 'single',
+  question: 'What is the danger of leaving expensive items unattended?',
+  options: ['They might get cold', 'They attract insects', 'They may be stolen', 'They use more power'],
+  answer: 2,
+  },
+
+  {
+  type: 'single',
+  question: 'Which personal information should NOT be shared online?',
+  options: ['Your hobbies', 'Your favorite color', 'Your home address', 'Your favorite food'],
+  answer: 2,
+  },
+
+  {
+  type: 'single',
+  question: 'Why should you be cautious when someone offers you a ride for free?',
+  options: ['It may save money', 'It could be dangerous', 'They might be rich', 'You might make a friend'],
+  answer: 1,
+  },
+
+  {
+  type: 'single',
+  question: 'What is the best way to arrange travel plans?',
+  options: ['Let strangers plan for you', 'Accept free offers online', 'Independently plan in advance', 'Ask around randomly'],
+  answer: 2,
+  },
+
+  {
+  type: 'single',
+  question: 'Which behavior might expose your safety risk?',
+  options: ['Wearing colorful clothes', 'Being with friends', 'Sharing your current location online', 'Smiling at others'],
+  answer: 2,
+  },
+
+  {
+  type: 'single',
+  question: 'When should you seek help from others?',
+  options: ['When you feel suspicious about them', 'When they approach you first', 'Only when you actively choose to', 'Whenever someone offers'],
+  answer: 2,
+  },
+]
